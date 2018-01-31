@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: dijkstra
+  cloud:
+    config:
+      uri: http://localhost:6100/
+      laber: master
+
